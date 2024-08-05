@@ -7,8 +7,9 @@
 ###
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SamuelSoaresSilva.SamuelSoaresSilva&left_color=mediumseagreen&right_color=darkslategrey"  />
-
+  
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
@@ -30,19 +31,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
 </div>
 
+
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelSoaresSilva&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SamuelSoaresSilva&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=20&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelSoaresSilva&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&border_radius=15" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SamuelSoaresSilva&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=20&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
 
-###
-
-<div align="right">
   <a href="https://www.linkedin.com/in/samuelsoaressilva/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+
+  
+
 
 ###
