@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/5f74474123d060cfe00c9245826c82b865e8774c78929e9a709bea2821516939/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b70684446626f7451487a55354c426e42752f67697068792e676966"  />
+<img align="right" height="150" src="https://media.giphy.com/media/KphDFbotQHzU5LBnBu/giphy.gif"  />
 
 ###
 
